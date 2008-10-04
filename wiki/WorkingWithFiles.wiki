@@ -1,4 +1,5 @@
-#This page will explain how to access and update the Suboscillator Project's files. It is a work in progress and needs expansion.
+#labels Documentation
+*This page will explain how to access and update the Suboscillator Project's files. It is a work in progress and needs expansion.*
 
 = Introduction =
 The files associated with this project are maintained using a Subversion repository. You can synchronize the files on this site with files on your computer using a Subversion client such as Tortoise on Windows and RapidSVN on Linux. 
