@@ -1,4 +1,4 @@
-#labels Documentation
+#labels Support,Featured
 *This page will explain how to access and update the Suboscillator Project's files. It is a work in progress and needs expansion.*
 
 = Introduction =
