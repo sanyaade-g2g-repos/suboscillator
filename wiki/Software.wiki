@@ -9,19 +9,19 @@ A lot of software out there will enable you to work with this project, so what y
 There are a lot of options for Music software, here's some to get you started:
 
 == Composing ==
-  * [http://www.energy-xt.com EnergyXT]  ($53 USD, very awesome DAW/Sequencer for Windows/Linux/Mac)
-  * [http://www.ardour.org/ Ardour] (Free open source DAW for Linux)
-  * [http://www.rosegardenmusic.com/ Rosegarden] (Free open source MIDI & Audio sequencing & composition for Linux.)
+  * [http://www.energy-xt.com EnergyXT] -  $53 USD, very awesome DAW/Sequencer for Windows/Linux/Mac
+  * [http://www.ardour.org/ Ardour] - Free open source DAW for Linux
+  * [http://www.rosegardenmusic.com/ Rosegarden] - Free open source MIDI & Audio sequencing & composition for Linux.
 
 == Wave Editors ==
-  * [http://audacity.sourceforge.net/ Audacity] (Free software for recording and editing audio files)
+  * [http://audacity.sourceforge.net/ Audacity] - Free software for recording and editing audio files
 
 == Plugins & Instruments ==
-  * [http://www.kvraudio.com/get.php Search KVR Audio Plugin Database]
-  * [http://amsynthe.sourceforge.net/amSynth/?p=download amSynth] Free analog modelling synth for Linux)
-  * [http://www.hydrogen-music.org/ Hydrogen] (Excellent drum machine for Linux)
+  * [http://www.kvraudio.com/get.php Search KVR Audio Plugin Database] -
+  * [http://amsynthe.sourceforge.net/amSynth/?p=download amSynth] - Free analog modelling synth for Linux
+  * [http://www.hydrogen-music.org/ Hydrogen] - Excellent drum machine for Linux
 
 
 == SVN Clients == 
-  * [http://tortoisesvn.tigris.org/ TortoiseSVN] (Subversion shell extension for Windows)
-  * [http://rapidsvn.tigris.org/ RapidSVN] (GUI Subversion client for Mac/Linux/Windows)
+  * [http://tortoisesvn.tigris.org/ TortoiseSVN] - Subversion shell extension for Windows
+  * [http://rapidsvn.tigris.org/ RapidSVN] - GUI Subversion client for Mac/Linux/Windows
