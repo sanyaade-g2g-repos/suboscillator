@@ -7,7 +7,7 @@ A lot of software out there will enable you to work with this project, so what y
 = Music Software =
 There are a lot of options for Music software, here's some to get you started:
 
-_*If you're using Ubuntu, be sure to check out the Add/Remove application to see if these applications can be installed automatically.*_
+_*If you're using Ubuntu, be sure to check out the Add/Remove application; many of these applications can be installed automatically.*_
 
 == Composing ==
   * [http://www.energy-xt.com EnergyXT] -  $53 USD, very awesome DAW/Sequencer for Windows/Linux/Mac
