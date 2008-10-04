@@ -21,4 +21,4 @@ There are a lot of options for Music software, here's some to get you started:
 
 == SVN Clients == 
   * [http://tortoisesvn.tigris.org/ TortoiseSVN] (Subversion shell extension for Windows)
-  * [http://rapidsvn.tigris.org/ RapidSVN] (GUI Subversion client for Linux)
+  * [http://rapidsvn.tigris.org/ RapidSVN] (GUI Subversion client for Mac/Linux/Windows)
