@@ -1,0 +1,28 @@
+#labels Documentation
+==This is a Music Project==
+The goal is to collaborate with musicians and produce some cool tunes. 
+
+==The Rules==
+The rules are simple: No commercial samples. Any sound added to this project must be freely redistributable. We will ask things like "Which plugins were used, what samples were used", etc. to promote openness and accessibility. Also please read the [http://code.google.com/tos.html Terms of Service] for Google Code.
+
+==Method==
+Not sure how this will actually work in reality, but the initial vision is this: users join the project, then contribute samples, MIDI, etc. People can download those samples and produce partial or complete works from them and re-commit these works to the project for others to remix, master, or otherwise manipulate. Completed works could be rated by participants and top rated works will be put on the project's [http://www.myspace.com/suboscillator MySpace Page] and distributed freely elsewhere.
+
+==Limitations==
+Obviously we're limited by space. We get 100MB to store information which means there will be a limit to the number of simultaneous songs that can be worked on. Also that means that very long high quality samples won't fit. I think that we can use that space constraint as a way to keep things simple. 
+
+==How to Participate==
+===Musically===
+  # Create a folder on your 'puter called 'Suboscillator'
+  # Get a SVN Client program to 'checkout' the files from this site
+  # Make some music with your favorite tracker. 
+   * Sample the stuff in the 'Suboscillator' folder 
+   * Add Samples to the 'Suboscillator' folder (in .wav format)
+  # Commit your changes to this page using your SVN Client program
+
+===Otherwise===
+  * Add Documentation to the Wiki to help others participate
+  * Tell other people about this
+  * Write a SVN plugin for Energy-XT
+
+View the Wiki for more detailed info.
