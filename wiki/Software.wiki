@@ -16,8 +16,11 @@ There are a lot of options for Music software, here's some to get you started:
 == Wave Editors ==
   * [http://audacity.sourceforge.net/ Audacity] (Free software for recording and editing audio files)
 
-== Plugins ==
+== Plugins & Instruments ==
   * [http://www.kvraudio.com/get.php Search KVR Audio Plugin Database]
+  * [http://amsynthe.sourceforge.net/amSynth/?p=download amSynth] Free analog modelling synth for Linux)
+  * [http://www.hydrogen-music.org/ Hydrogen] (Excellent drum machine for Linux)
+
 
 == SVN Clients == 
   * [http://tortoisesvn.tigris.org/ TortoiseSVN] (Subversion shell extension for Windows)
