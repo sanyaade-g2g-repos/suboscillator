@@ -13,6 +13,9 @@ There are a lot of options for Music software, here's some to get you started:
   * Ardour (Free open source DAW for Linux)
   * Rosegarden (Free open source MIDI & Audio sequencing & composition for Linux.)
 
+== Wave Editors ==
+  * Audacity (Free software for recording and editing audio files)
+
 == Plugins ==
   * Search KVR Audio Plugin Database
 
