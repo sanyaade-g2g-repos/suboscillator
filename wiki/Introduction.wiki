@@ -1,4 +1,4 @@
-#labels Documentation
+#labels Support,Featured
 ==This is a Music Project==
 The goal is to collaborate with musicians and produce some cool tunes. 
 
