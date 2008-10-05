@@ -4,29 +4,7 @@
 = Introduction =
 The files associated with this project are maintained using a Subversion repository. You can synchronize the files on this site with files on your computer using a Subversion client such as Tortoise on Windows and RapidSVN on Linux. 
 
-== Restrictions ==
-Please adhere to the following:
-  * Submit only .mid .wav or .txt files
-  * Keep sizes small.
-    * 1mb or less for instruments
-    * 5mb or less for riffs
-  * Only submit stuff you own exclusive rights to.
-  * Agree to license your work freely under the [http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GPLv2]
-
-== Getting the Files ==
-Start by getting an SVN client and getting familiar with how it works. You will typically need to import or connect to this site using the parameters under the "Source" tab. Once you establish a local working copy, you can go about mixing up samples, adding new sounds, or whatever you wish.
-
-== Adding your Files == 
-If you've created something new and you wish to add it to the site for others to use, then you need to 'commit' these changes. Steps will vary slightly depending on which client program you use but typically it works something like this:
-
-  # Syncronize files to a "working directory" on your computer
-  # Manipulate the files & folders in the working directory as needed
-  # "Add" the files to the working folder using your client program
-  # "Commit" the changes when finished.
-
-This will result in the files being added for others to work with.
-
-==The Repository==
+=The Repository=
 The heart of the Suboscillator project is the Subversion Repository which can contain up to 100mb of files. These will be audio fragments, songs, midi files, etc. which participants of this project can use to create music. It is important when modifying the repository that all changes are noted with an explanation, and that files are named and organized logically. All files added to the repository are public domain; no commercial or copyrighted material will be included.
 
 ===Instruments===
@@ -43,3 +21,25 @@ The Songs folder is for partial or complete songs in .ogg format. The .ogg forma
 
 ==Larger Files, Host Data, etc.==
 It would be hypocritical to discourage the exchange of source files, archives, and such. If you produce a finished work that you wish to have mastered or remixed by another project member please share that data outside the repository for now. If the need arises for more hosting space it can be addressed when the time comes. Such needs should be addressed using the "Issues" section of this page.
+
+== Getting the Files ==
+Start by getting an SVN client and getting familiar with how it works. You will typically need to import or connect to this site using the parameters under the "Source" tab. Once you establish a local working copy, you can go about mixing up samples, adding new sounds, or whatever you wish.
+
+== Adding your Files == 
+If you've created something new and you wish to add it to the site for others to use, then you need to 'commit' these changes. Steps will vary slightly depending on which client program you use but typically it works something like this:
+
+  # Syncronize files to a "working directory" on your computer
+  # Manipulate the files & folders in the working directory as needed
+  # "Add" the files to the working folder using your client program
+  # "Commit" the changes when finished.
+
+This will result in the files being added for others to work with.
+
+= Restrictions =
+Restrictions tend to oppose creativity so they are few. Please adhere to the following:
+  * Submit only .mid .wav .ogg or .txt files
+  * Keep sizes small.
+    * 1mb or less for instruments
+    * 3mb or less for riffs
+  * Only submit stuff you own exclusive rights to.
+  * Agree to license your work freely under the [http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GPLv2]
